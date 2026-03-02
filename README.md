@@ -42,7 +42,9 @@ This project is built using the **MERN Stack (MongoDB, Express.js, React.js, Nod
 ## Project Structure
 
 smart-expense-tracker
+
 │
+
 ├── client/ → React Frontend
 └── server/ → Node.js Backend API
 
