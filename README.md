@@ -4,7 +4,7 @@ A full-stack expense tracking web application that allows users to securely mana
 
 This project is built using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)** and demonstrates complete authentication, API integration, and database operations.
 
----
+
 
 ## Features
 
@@ -18,7 +18,7 @@ This project is built using the **MERN Stack (MongoDB, Express.js, React.js, Nod
 - Persistent Database Storage (MongoDB)
 - Responsive UI (React + Vite)
 
----
+
 
 ## Tech Stack
 
@@ -37,13 +37,16 @@ This project is built using the **MERN Stack (MongoDB, Express.js, React.js, Nod
 ### Database
 - MongoDB (MongoDB Atlas)
 
----
+
 
 ## Project Structure
 
 smart-expense-tracker
+
 │
+
 ├── client/ → React Frontend
+
 └── server/ → Node.js Backend API
 
 ## Start backend:
