@@ -46,6 +46,7 @@ smart-expense-tracker
 │
 
 ├── client/ → React Frontend
+
 └── server/ → Node.js Backend API
 
 ## Start backend:
